@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Starlink/static/css/main.3dfb2fad.chunk.css",
+    "main.js": "/Starlink/static/js/main.23681c09.chunk.js",
+    "main.js.map": "/Starlink/static/js/main.23681c09.chunk.js.map",
+    "runtime-main.js": "/Starlink/static/js/runtime-main.5ba6f61f.js",
+    "runtime-main.js.map": "/Starlink/static/js/runtime-main.5ba6f61f.js.map",
+    "static/css/2.eb77542a.chunk.css": "/Starlink/static/css/2.eb77542a.chunk.css",
+    "static/js/2.3491f7d7.chunk.js": "/Starlink/static/js/2.3491f7d7.chunk.js",
+    "static/js/2.3491f7d7.chunk.js.map": "/Starlink/static/js/2.3491f7d7.chunk.js.map",
+    "static/js/3.45c4d7a4.chunk.js": "/Starlink/static/js/3.45c4d7a4.chunk.js",
+    "static/js/3.45c4d7a4.chunk.js.map": "/Starlink/static/js/3.45c4d7a4.chunk.js.map",
+    "index.html": "/Starlink/index.html",
+    "static/css/2.eb77542a.chunk.css.map": "/Starlink/static/css/2.eb77542a.chunk.css.map",
+    "static/css/main.3dfb2fad.chunk.css.map": "/Starlink/static/css/main.3dfb2fad.chunk.css.map",
+    "static/js/2.3491f7d7.chunk.js.LICENSE.txt": "/Starlink/static/js/2.3491f7d7.chunk.js.LICENSE.txt",
+    "static/media/satellite.d327b26a.svg": "/Starlink/static/media/satellite.d327b26a.svg",
+    "static/media/spacex_logo.ad25dfff.svg": "/Starlink/static/media/spacex_logo.ad25dfff.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ba6f61f.js",
+    "static/css/2.eb77542a.chunk.css",
+    "static/js/2.3491f7d7.chunk.js",
+    "static/css/main.3dfb2fad.chunk.css",
+    "static/js/main.23681c09.chunk.js"
+  ]
+}
